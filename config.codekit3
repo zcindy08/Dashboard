@@ -64,6 +64,54 @@
       "oAP" : "\/dev\/content\/svg-container.html",
       "oF" : 0
     },
+    "\/dev\/content\/svg\/gps.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/gps.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/options.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/options.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/speedometer.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/speedometer.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/tirepressure.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/tirepressure.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/warninglights.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/warninglights.html",
+      "oF" : 0
+    },
+    "\/dev\/content\/svg\/weathercard.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg\/weathercard.html",
+      "oF" : 0
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
